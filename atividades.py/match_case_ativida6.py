@@ -16,6 +16,7 @@ match valor_do_produto:
         print(f"Valor do produto:{valor_do_produto}")
         print(f"Forma de pagamento selecionada:{forma_de_pagamento}")
         print(f"valor total:{desconto}")
+        print(f"Total a pagar: R$ {valor}")
  
 
 
