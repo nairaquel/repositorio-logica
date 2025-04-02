@@ -1,4 +1,4 @@
-import os 
+zimport os 
 #outro comando
 import time
 
